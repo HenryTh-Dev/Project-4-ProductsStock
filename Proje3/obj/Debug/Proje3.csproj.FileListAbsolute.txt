@@ -1,8 +1,0 @@
-C:\Users\henry\source\repos\Proje3\Proje3\bin\Debug\Proje3.exe.config
-C:\Users\henry\source\repos\Proje3\Proje3\bin\Debug\Proje3.exe
-C:\Users\henry\source\repos\Proje3\Proje3\bin\Debug\Proje3.pdb
-C:\Users\henry\source\repos\Proje3\Proje3\obj\Debug\Proje3.csproj.AssemblyReference.cache
-C:\Users\henry\source\repos\Proje3\Proje3\obj\Debug\Proje3.csproj.SuggestedBindingRedirects.cache
-C:\Users\henry\source\repos\Proje3\Proje3\obj\Debug\Proje3.csproj.CoreCompileInputs.cache
-C:\Users\henry\source\repos\Proje3\Proje3\obj\Debug\Proje3.exe
-C:\Users\henry\source\repos\Proje3\Proje3\obj\Debug\Proje3.pdb
